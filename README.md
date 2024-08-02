@@ -7,7 +7,7 @@ Excited and ambitious B.Sc. IT student at NorthWest University.
 
 Link to [LinkedIn](https://www.linkedin.com/in/wimpie-botha-1b5902320/)
 
-Link to [Virtual CV](wimpie-botha.github.io)
+Link to [Virtual CV](https://wimpie-botha.github.io)
 <!--
 **Wimpie-Botha/Wimpie-Botha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
