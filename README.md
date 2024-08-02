@@ -1,5 +1,10 @@
-## Hi there 👋
+## Welcome
 
+Excited and ambitious B.Sc. IT student at NorthWest University.
+I’m currently learning C, Flutter, Golang, and NodeJs
+
+Link to [LinkedIn](https://www.linkedin.com/in/wimpie-botha-1b5902320/)
+Link to [Virtual CV](wimpie-botha.github.io)
 <!--
 **Wimpie-Botha/Wimpie-Botha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
