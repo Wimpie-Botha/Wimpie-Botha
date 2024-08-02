@@ -1,7 +1,9 @@
-## Welcome
+# Welcome
 
 Excited and ambitious B.Sc. IT student at NorthWest University.
-I’m currently learning C, Flutter, Golang, and NodeJs
+
+
+
 
 Link to [LinkedIn](https://www.linkedin.com/in/wimpie-botha-1b5902320/)
 
